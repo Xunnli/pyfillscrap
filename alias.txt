@@ -1,0 +1,7 @@
+node weap.js dte%=3, cd%=max, mp%=min, pp%=min, elematch=1, pot=110
+
+node arm.js dte%=3, cd%=max, mp%=min, pp%=min, pot=110*
+
+.fweap 
+.fillweap 
+.fillarm 

@@ -1,1 +1,73 @@
-aa
+
+Ailment Resistance %
+Guard Power
+Guard Rate %
+Evasion Rate %
+Aggro %
+% Reduce Dmg (Foe Epicenter)
+% Reduce Dmg (Player Epicenter)
+% Reduce Dmg (Straight Line)
+% Reduce Dmg (Charge)
+% Reduce Dmg (Meteor)
+% Reduce Dmg (Bullet)
+% Reduce Dmg (Bowling)
+% Reduce Dmg (Floor)
+
+
+    "pp%": 'PhysicalPierce %',
+    "mp%": 'Magic Pierce %',
+    "acc": 'Accuracy',
+    "atk%": 'ATK%',
+    "matk%": 'MATK%',
+    "acc%": 'Accuracy %',
+    "dte%": '% Stronger Against Fire',
+    "atk": 'ATK',
+    "matk": 'MATK',
+    "dodge": 'Dodge',
+    "hpreg": 'Natural HP regen',
+    "mpreg": 'Natural MP regen',
+    "agi": 'AGI',
+    "dex": 'DEX',
+    "int": 'INT',
+    "str": 'STR',
+    "vit": 'VIT',
+    "rte%": 'Fire Resistance %',
+    "maxhp%": 'MaxHP%',
+    "dodge%": 'Dodge %',
+    "stab%": 'Stability%',
+    "ail%": 'Ailment Resistance %',
+    "def%": 'DEF%',
+    "mdef%": 'MDEF%',
+    "pres%": 'PhysicalResistance %',
+    "mres%": 'Magic Resistance %',
+    "cd%": 'Critical Damage%',
+    "hpreg%": 'Natural HP regen%',
+    "mpreg%": 'Natural MP regen%',
+    "agi%": 'AGI%',
+    "dex%": 'DEX%',
+    "int%": 'INT%',
+    "str%": 'STR%',
+    "vit%": 'VIT%',
+    "eva%": 'Evasion Rate %',
+    "guard": 'Guard Power',
+    "guard%": 'Guard Rate %',
+    "maxmp": 'MaxMP',
+    "aggro%": 'Aggro %',
+    "hp": 'MaxHP',
+    "def": 'DEF',
+    "mdef": 'MDEF',
+    "cd": 'Critical Damage',
+    "aspd": 'ASPD',
+    "cspd": 'CSPD',
+    "aspd%": 'ASPD%',
+    "caspd%": 'CSPD%',
+    "cr": 'Critical Rate',
+    "cr%": 'Critical Rate%',
+    "foe%": '% Reduce Dmg (Foe Epicenter)',
+    "bow%": '% Reduce Dmg (Bowling)',
+    "bull%": '% Reduce Dmg (Bullet)',
+    "flo%": '% Reduce Dmg (Floor)',
+    "line": '% Reduce Dmg (Straight Line)',
+    "Charge%": '% Reduce Dmg (Charge)',
+    "epic%": '% Reduce Dmg (Player Epicenter)',
+    "mete%": '% Reduce Dmg (Meteor)',
